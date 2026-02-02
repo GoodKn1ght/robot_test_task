@@ -1,0 +1,7 @@
+[user]
+	name = GoodKn1ght
+	email = oleh.sokal.shi.2023@lpnu.ua
+[core]
+	autocrlf = true
+[credential]
+	helper = "!f() { /root/.vscode-server/bin/94e8ae2b28cb5cc932b86e1070569c4463565c37/node /tmp/vscode-remote-containers-685ff2da-2f7c-4e1c-afcf-73ea7bb14235.js git-credential-helper $*; }; f"

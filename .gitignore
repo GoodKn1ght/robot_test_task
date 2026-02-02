@@ -1,0 +1,31 @@
+# Твій список
+.cache
+.dotnet
+.gz
+.vs
+.rviz2
+.sdformat
+.ssh
+.vscode-server
+.vscode
+
+# ROS2
+build/
+install/
+log/
+
+# C++ / CMake
+CMakeCache.txt
+CMakeFiles/
+Makefile
+*.o
+*.obj
+*.so
+
+# Python
+__pycache__/
+.venv/
+
+# System
+.DS_Store
+Thumbs.db
